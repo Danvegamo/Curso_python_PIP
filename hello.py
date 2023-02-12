@@ -1,1 +1,1 @@
-print('Hello world, Im amazing!')
+print('Hello world, Im amazing coder!')
